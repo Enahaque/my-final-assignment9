@@ -4,9 +4,9 @@ import Review from '../Review/Review';
 const Reviews = () => {
     // const[reviews,setReviews] = useState();
     const data=[
-        {id:1,name:'Mike',review:'*****'},
-        {id:2,name:'Nike',review:'****'},
-        {id:3,name:'Sike',review:'***'},
+        {id:1,name:'Mike', src:'https://i.ibb.co/dPJqBHF/resized-image-Promo-1.jpg',review:'*****'},
+        {id:2,name:'Nike', src:'https://i.ibb.co/dPJqBHF/resized-image-Promo-1.jpg', review:'****'},
+        {id:3,name:'Sike', src:'https://i.ibb.co/dPJqBHF/resized-image-Promo-1.jpg', review:'***'},
     ];
     return (
         <div>
